@@ -1,5 +1,6 @@
 package com.hamitmizrak.utils;
 
 public class PermaLink {
-    //GITHUB
+    //GITHUB : https://github.com/buseosaki/SpringFrameworkPractices
+
 }
